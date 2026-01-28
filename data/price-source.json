@@ -1,0 +1,22 @@
+[
+  { "sku": "SKU-200099", "currency": "NOK", "amount": 399 },
+  { "sku": "SKU-X0400237", "currency": "NOK", "amount": 8 },
+  { "sku": "SKU-0401228", "currency": "NOK", "amount": 408 },
+  { "sku": "SKU-0404555", "currency": "NOK", "amount": 2189 },
+  { "sku": "SKU-0403468", "currency": "NOK", "amount": 1699 },
+  { "sku": "SKU-0403467", "currency": "NOK", "amount": 899 },
+  { "sku": "SKU-0403778+0403777", "currency": "NOK", "amount": 221 },
+  { "sku": "SKU-0402770+0402769", "currency": "NOK", "amount": 618 },
+  { "sku": "SKU-0404195", "currency": "NOK", "amount": 508 },
+  { "sku": "SKU-0403167", "currency": "NOK", "amount": 420 },
+  { "sku": "SKU-0402502", "currency": "NOK", "amount": 799 },
+  { "sku": "SKU-0403473", "currency": "NOK", "amount": 1499 },
+  { "sku": "SKU-0403476", "currency": "NOK", "amount": 1899 },
+  { "sku": "SKU-0403474", "currency": "NOK", "amount": 3499 },
+  { "sku": "SKU-050046", "currency": "NOK", "amount": 31 },
+  { "sku": "SKU-050023", "currency": "NOK", "amount": 52 },
+  { "sku": "SKU-X0402185", "currency": "NOK", "amount": 313 },
+  { "sku": "SKU-X0400280", "currency": "NOK", "amount": 313 },
+  { "sku": "SKU-X0400272", "currency": "NOK", "amount": 313 },
+  { "sku": "SKU-X0402186", "currency": "NOK", "amount": 313 }
+]
