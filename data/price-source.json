@@ -1,22 +1,163 @@
 [
-  { "sku": "SKU-200099", "currency": "NOK", "amount": 3399 },
-  { "sku": "SKU-X0400237", "currency": "NOK", "amount": 8 },
-  { "sku": "SKU-0401228", "currency": "NOK", "amount": 408 },
-  { "sku": "SKU-0404555", "currency": "NOK", "amount": 2189 },
-  { "sku": "SKU-0403468", "currency": "NOK", "amount": 1699 },
-  { "sku": "SKU-0403467", "currency": "NOK", "amount": 899 },
-  { "sku": "SKU-0403778+0403777", "currency": "NOK", "amount": 221 },
-  { "sku": "SKU-0402770+0402769", "currency": "NOK", "amount": 618 },
-  { "sku": "SKU-0404195", "currency": "NOK", "amount": 508 },
-  { "sku": "SKU-0403167", "currency": "NOK", "amount": 420 },
-  { "sku": "SKU-0402502", "currency": "NOK", "amount": 799 },
-  { "sku": "SKU-0403473", "currency": "NOK", "amount": 1499 },
-  { "sku": "SKU-0403476", "currency": "NOK", "amount": 1899 },
-  { "sku": "SKU-0403474", "currency": "NOK", "amount": 3499 },
-  { "sku": "SKU-050046", "currency": "NOK", "amount": 31 },
-  { "sku": "SKU-050023", "currency": "NOK", "amount": 52 },
-  { "sku": "SKU-X0402185", "currency": "NOK", "amount": 313 },
-  { "sku": "SKU-X0400280", "currency": "NOK", "amount": 313 },
-  { "sku": "SKU-X0400272", "currency": "NOK", "amount": 313 },
-  { "sku": "SKU-X0402186", "currency": "NOK", "amount": 313 }
+  {
+    "sku": "SKU-200099",
+    "listPrice": { "currency": "NOK", "amount": 399 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 351 },
+      "5678": { "currency": "NOK", "amount": 327 }
+    }
+  },
+  {
+    "sku": "SKU-X0400237",
+    "listPrice": { "currency": "NOK", "amount": 8 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 7 },
+      "5678": { "currency": "NOK", "amount": 7 }
+    }
+  },
+  {
+    "sku": "SKU-0401228",
+    "listPrice": { "currency": "NOK", "amount": 408 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 359 },
+      "5678": { "currency": "NOK", "amount": 335 }
+    }
+  },
+  {
+    "sku": "SKU-0404555",
+    "listPrice": { "currency": "NOK", "amount": 2189 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 1926 },
+      "5678": { "currency": "NOK", "amount": 1795 }
+    }
+  },
+  {
+    "sku": "SKU-0403468",
+    "listPrice": { "currency": "NOK", "amount": 1699 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 1495 },
+      "5678": { "currency": "NOK", "amount": 1393 }
+    }
+  },
+  {
+    "sku": "SKU-0403467",
+    "listPrice": { "currency": "NOK", "amount": 899 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 791 },
+      "5678": { "currency": "NOK", "amount": 737 }
+    }
+  },
+  {
+    "sku": "SKU-0403778+0403777",
+    "listPrice": { "currency": "NOK", "amount": 221 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 194 },
+      "5678": { "currency": "NOK", "amount": 181 }
+    }
+  },
+  {
+    "sku": "SKU-0402770+0402769",
+    "listPrice": { "currency": "NOK", "amount": 618 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 544 },
+      "5678": { "currency": "NOK", "amount": 507 }
+    }
+  },
+  {
+    "sku": "SKU-0404195",
+    "listPrice": { "currency": "NOK", "amount": 508 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 447 },
+      "5678": { "currency": "NOK", "amount": 417 }
+    }
+  },
+  {
+    "sku": "SKU-0403167",
+    "listPrice": { "currency": "NOK", "amount": 420 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 370 },
+      "5678": { "currency": "NOK", "amount": 344 }
+    }
+  },
+  {
+    "sku": "SKU-0402502",
+    "listPrice": { "currency": "NOK", "amount": 799 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 703 },
+      "5678": { "currency": "NOK", "amount": 655 }
+    }
+  },
+  {
+    "sku": "SKU-0403473",
+    "listPrice": { "currency": "NOK", "amount": 1499 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 1319 },
+      "5678": { "currency": "NOK", "amount": 1229 }
+    }
+  },
+  {
+    "sku": "SKU-0403476",
+    "listPrice": { "currency": "NOK", "amount": 1899 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 1671 },
+      "5678": { "currency": "NOK", "amount": 1557 }
+    }
+  },
+  {
+    "sku": "SKU-0403474",
+    "listPrice": { "currency": "NOK", "amount": 3499 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 3079 },
+      "5678": { "currency": "NOK", "amount": 2869 }
+    }
+  },
+  {
+    "sku": "SKU-050046",
+    "listPrice": { "currency": "NOK", "amount": 31 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 27 },
+      "5678": { "currency": "NOK", "amount": 25 }
+    }
+  },
+  {
+    "sku": "SKU-050023",
+    "listPrice": { "currency": "NOK", "amount": 52 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 46 },
+      "5678": { "currency": "NOK", "amount": 43 }
+    }
+  },
+  {
+    "sku": "SKU-X0402185",
+    "listPrice": { "currency": "NOK", "amount": 313 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 275 },
+      "5678": { "currency": "NOK", "amount": 257 }
+    }
+  },
+  {
+    "sku": "SKU-X0400280",
+    "listPrice": { "currency": "NOK", "amount": 313 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 275 },
+      "5678": { "currency": "NOK", "amount": 257 }
+    }
+  },
+  {
+    "sku": "SKU-X0400272",
+    "listPrice": { "currency": "NOK", "amount": 313 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 275 },
+      "5678": { "currency": "NOK", "amount": 257 }
+    }
+  },
+  {
+    "sku": "SKU-X0402186",
+    "listPrice": { "currency": "NOK", "amount": 313 },
+    "contractPrices": {
+      "1234": { "currency": "NOK", "amount": 275 },
+      "5678": { "currency": "NOK", "amount": 257 }
+    }
+  }
 ]
+
