@@ -1,163 +1,342 @@
 [
   {
     "sku": "SKU-200099",
-    "listPrice": { "currency": "NOK", "amount": 399 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 399 },
+      "SE": { "currency": "SEK", "amount": 368 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 351 },
-      "5678": { "currency": "NOK", "amount": 327 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 351 },
+        "SE": { "currency": "SEK", "amount": 323 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 327 },
+        "SE": { "currency": "SEK", "amount": 301 }
+      }
     }
   },
   {
     "sku": "SKU-X0400237",
-    "listPrice": { "currency": "NOK", "amount": 8 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 8 },
+      "SE": { "currency": "SEK", "amount": 8 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 7 },
-      "5678": { "currency": "NOK", "amount": 7 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 7 },
+        "SE": { "currency": "SEK", "amount": 7 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 7 },
+        "SE": { "currency": "SEK", "amount": 7 }
+      }
     }
   },
   {
     "sku": "SKU-0401228",
-    "listPrice": { "currency": "NOK", "amount": 408 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 408 },
+      "SE": { "currency": "SEK", "amount": 376 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 359 },
-      "5678": { "currency": "NOK", "amount": 335 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 359 },
+        "SE": { "currency": "SEK", "amount": 331 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 335 },
+        "SE": { "currency": "SEK", "amount": 309 }
+      }
     }
   },
   {
     "sku": "SKU-0404555",
-    "listPrice": { "currency": "NOK", "amount": 2189 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 2189 },
+      "SE": { "currency": "SEK", "amount": 2014 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 1926 },
-      "5678": { "currency": "NOK", "amount": 1795 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 1926 },
+        "SE": { "currency": "SEK", "amount": 1772 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 1795 },
+        "SE": { "currency": "SEK", "amount": 1652 }
+      }
     }
   },
   {
     "sku": "SKU-0403468",
-    "listPrice": { "currency": "NOK", "amount": 1699 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 1699 },
+      "SE": { "currency": "SEK", "amount": 1564 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 1495 },
-      "5678": { "currency": "NOK", "amount": 1393 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 1495 },
+        "SE": { "currency": "SEK", "amount": 1376 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 1393 },
+        "SE": { "currency": "SEK", "amount": 1282 }
+      }
     }
   },
   {
     "sku": "SKU-0403467",
-    "listPrice": { "currency": "NOK", "amount": 899 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 899 },
+      "SE": { "currency": "SEK", "amount": 828 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 791 },
-      "5678": { "currency": "NOK", "amount": 737 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 791 },
+        "SE": { "currency": "SEK", "amount": 728 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 737 },
+        "SE": { "currency": "SEK", "amount": 678 }
+      }
     }
   },
   {
     "sku": "SKU-0403778+0403777",
-    "listPrice": { "currency": "NOK", "amount": 221 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 221 },
+      "SE": { "currency": "SEK", "amount": 204 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 194 },
-      "5678": { "currency": "NOK", "amount": 181 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 194 },
+        "SE": { "currency": "SEK", "amount": 179 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 181 },
+        "SE": { "currency": "SEK", "amount": 167 }
+      }
     }
   },
   {
     "sku": "SKU-0402770+0402769",
-    "listPrice": { "currency": "NOK", "amount": 618 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 618 },
+      "SE": { "currency": "SEK", "amount": 569 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 544 },
-      "5678": { "currency": "NOK", "amount": 507 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 544 },
+        "SE": { "currency": "SEK", "amount": 501 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 507 },
+        "SE": { "currency": "SEK", "amount": 467 }
+      }
     }
   },
   {
     "sku": "SKU-0404195",
-    "listPrice": { "currency": "NOK", "amount": 508 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 508 },
+      "SE": { "currency": "SEK", "amount": 468 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 447 },
-      "5678": { "currency": "NOK", "amount": 417 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 447 },
+        "SE": { "currency": "SEK", "amount": 412 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 417 },
+        "SE": { "currency": "SEK", "amount": 384 }
+      }
     }
   },
   {
     "sku": "SKU-0403167",
-    "listPrice": { "currency": "NOK", "amount": 420 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 420 },
+      "SE": { "currency": "SEK", "amount": 387 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 370 },
-      "5678": { "currency": "NOK", "amount": 344 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 370 },
+        "SE": { "currency": "SEK", "amount": 341 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 344 },
+        "SE": { "currency": "SEK", "amount": 317 }
+      }
     }
   },
   {
     "sku": "SKU-0402502",
-    "listPrice": { "currency": "NOK", "amount": 799 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 799 },
+      "SE": { "currency": "SEK", "amount": 736 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 703 },
-      "5678": { "currency": "NOK", "amount": 655 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 703 },
+        "SE": { "currency": "SEK", "amount": 647 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 655 },
+        "SE": { "currency": "SEK", "amount": 603 }
+      }
     }
   },
   {
     "sku": "SKU-0403473",
-    "listPrice": { "currency": "NOK", "amount": 1499 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 1499 },
+      "SE": { "currency": "SEK", "amount": 1379 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 1319 },
-      "5678": { "currency": "NOK", "amount": 1229 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 1319 },
+        "SE": { "currency": "SEK", "amount": 1214 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 1229 },
+        "SE": { "currency": "SEK", "amount": 1131 }
+      }
     }
   },
   {
     "sku": "SKU-0403476",
-    "listPrice": { "currency": "NOK", "amount": 1899 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 1899 },
+      "SE": { "currency": "SEK", "amount": 1747 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 1671 },
-      "5678": { "currency": "NOK", "amount": 1557 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 1671 },
+        "SE": { "currency": "SEK", "amount": 1538 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 1557 },
+        "SE": { "currency": "SEK", "amount": 1433 }
+      }
     }
   },
   {
     "sku": "SKU-0403474",
-    "listPrice": { "currency": "NOK", "amount": 3499 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 3499 },
+      "SE": { "currency": "SEK", "amount": 3219 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 3079 },
-      "5678": { "currency": "NOK", "amount": 2869 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 3079 },
+        "SE": { "currency": "SEK", "amount": 2833 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 2869 },
+        "SE": { "currency": "SEK", "amount": 2640 }
+      }
     }
   },
   {
     "sku": "SKU-050046",
-    "listPrice": { "currency": "NOK", "amount": 31 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 31 },
+      "SE": { "currency": "SEK", "amount": 29 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 27 },
-      "5678": { "currency": "NOK", "amount": 25 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 27 },
+        "SE": { "currency": "SEK", "amount": 25 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 25 },
+        "SE": { "currency": "SEK", "amount": 23 }
+      }
     }
   },
   {
     "sku": "SKU-050023",
-    "listPrice": { "currency": "NOK", "amount": 52 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 52 },
+      "SE": { "currency": "SEK", "amount": 48 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 46 },
-      "5678": { "currency": "NOK", "amount": 43 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 46 },
+        "SE": { "currency": "SEK", "amount": 43 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 43 },
+        "SE": { "currency": "SEK", "amount": 40 }
+      }
     }
   },
   {
     "sku": "SKU-X0402185",
-    "listPrice": { "currency": "NOK", "amount": 313 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 313 },
+      "SE": { "currency": "SEK", "amount": 288 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 275 },
-      "5678": { "currency": "NOK", "amount": 257 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 275 },
+        "SE": { "currency": "SEK", "amount": 253 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 257 },
+        "SE": { "currency": "SEK", "amount": 237 }
+      }
     }
   },
   {
     "sku": "SKU-X0400280",
-    "listPrice": { "currency": "NOK", "amount": 313 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 313 },
+      "SE": { "currency": "SEK", "amount": 288 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 275 },
-      "5678": { "currency": "NOK", "amount": 257 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 275 },
+        "SE": { "currency": "SEK", "amount": 253 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 257 },
+        "SE": { "currency": "SEK", "amount": 237 }
+      }
     }
   },
   {
     "sku": "SKU-X0400272",
-    "listPrice": { "currency": "NOK", "amount": 313 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 313 },
+      "SE": { "currency": "SEK", "amount": 288 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 275 },
-      "5678": { "currency": "NOK", "amount": 257 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 275 },
+        "SE": { "currency": "SEK", "amount": 253 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 257 },
+        "SE": { "currency": "SEK", "amount": 237 }
+      }
     }
   },
   {
     "sku": "SKU-X0402186",
-    "listPrice": { "currency": "NOK", "amount": 313 },
+    "listPrice": {
+      "NO": { "currency": "NOK", "amount": 313 },
+      "SE": { "currency": "SEK", "amount": 288 }
+    },
     "contractPrices": {
-      "1234": { "currency": "NOK", "amount": 275 },
-      "5678": { "currency": "NOK", "amount": 257 }
+      "1234": {
+        "NO": { "currency": "NOK", "amount": 275 },
+        "SE": { "currency": "SEK", "amount": 253 }
+      },
+      "5678": {
+        "NO": { "currency": "NOK", "amount": 257 },
+        "SE": { "currency": "SEK", "amount": 237 }
+      }
     }
   }
 ]
-
