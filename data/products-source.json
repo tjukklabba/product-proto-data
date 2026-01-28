@@ -4,159 +4,139 @@
     "title": "Dørglans",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2025/10/Dorglans-2-850x850.jpg",
     "currency": "NOK",
-    "price": 399,
-    "stock": 14
+    "price": 399
   },
   {
     "sku": "SKU-X0400237",
     "title": "Blindskilt 50/51/52 logo HVIT",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_0400237_coverplate_logo-850x850.jpg",
     "currency": "NOK",
-    "price": 8,
-    "stock": 0
+    "price": 8
   },
   {
     "sku": "SKU-0401228",
     "title": "Brems til 1088mm NorDan balkongdør",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Brems_Balkong_01-768x768.jpg",
     "currency": "NOK",
-    "price": 408,
-    "stock": 22
+    "price": 408
   },
   {
     "sku": "SKU-0404555",
     "title": "Dobbel sylinder inn- og utvendig med nøkkel til 67mm dør",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Dobbel_Sylinder_01.jpg",
     "currency": "NOK",
-    "price": 2189,
-    "stock": 5
+    "price": 2189
   },
   {
     "sku": "SKU-0403468",
     "title": "Eolis HS Vindsensor io 230v",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Eolis-HS-Vindsensor-io-768x768.jpg",
     "currency": "NOK",
-    "price": 1699,
-    "stock": 18
+    "price": 1699
   },
   {
     "sku": "SKU-0403467",
     "title": "Eolis Wirefree- Batteridrevet vindsensor",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Eolis-Wirefree-768x768.jpg",
     "currency": "NOK",
-    "price": 899,
-    "stock": 7
+    "price": 899
   },
   {
     "sku": "SKU-0403778+0403777",
     "title": "Hengsel, høyre, HVIT",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2024/12/04037780403777-768x768.jpg",
     "currency": "NOK",
-    "price": 221,
-    "stock": 3
+    "price": 221
   },
   {
     "sku": "SKU-0402770+0402769",
     "title": "Hengsel, høyre, RUSTFRITT STÅL",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2024/12/04027700402769-768x768.jpg",
     "currency": "NOK",
-    "price": 618,
-    "stock": 42
+    "price": 618
   },
   {
     "sku": "SKU-0404195",
     "title": "Hoppe vrider 0730/300 KL, for sylinder, innvendig/utvendig HVIT",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Hoppe_Hvit_Syl_0730_300-768x768.jpg",
     "currency": "NOK",
-    "price": 508,
-    "stock": 6
+    "price": 508
   },
   {
     "sku": "SKU-0403167",
     "title": "Hoppe vrider 0730/350 KL, tett, utvendig SØLV",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Hoppe_solv_Slett_0730_300-768x768.png",
     "currency": "NOK",
-    "price": 420,
-    "stock": 55
+    "price": 420
   },
   {
     "sku": "SKU-0402502",
     "title": "SOMFY SITUO 1 io PURE II",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/new_situo_1t_star_view__pure-768x768.jpg",
     "currency": "NOK",
-    "price": 799,
-    "stock": 41
+    "price": 799
   },
   {
     "sku": "SKU-0403473",
     "title": "SOMFY SITUO 5 A/M io PURE II",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Situo-variation-5-io-pure_01-1-768x768.jpg",
     "currency": "NOK",
-    "price": 1499,
-    "stock": 9
+    "price": 1499
   },
   {
     "sku": "SKU-0403476",
     "title": "Sunis Wirefree io II – Batteridrevet solføler",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Solfoler-768x768.jpg",
     "currency": "NOK",
-    "price": 1899,
-    "stock": 11
+    "price": 1899
   },
   {
     "sku": "SKU-0403474",
     "title": "TaHoma switch",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2022/08/TaHoma-switch-768x768.png",
     "currency": "NOK",
-    "price": 3499,
-    "stock": 60
+    "price": 3499
   },
   {
     "sku": "SKU-050046",
     "title": "Tetningslist",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_050046_tetningslist_sort-768x768.jpg",
     "currency": "NOK",
-    "price": 31,
-    "stock": 27
+    "price": 31
   },
   {
     "sku": "SKU-050023",
     "title": "Tetningslist 8mm silikon",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_050023_gasket-768x768.jpg",
     "currency": "NOK",
-    "price": 52,
-    "stock": 31
+    "price": 52
   },
   {
-    "sku": "SKU- X0402185",
+    "sku": "SKU-X0402185",
     "title": "Vrider 55 MATT KROM",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_55_Matt_Krom_01-768x768.jpg",
     "currency": "NOK",
-    "price": 313,
-    "stock": 120
+    "price": 313
   },
   {
     "sku": "SKU-X0400280",
     "title": "Vrider 56 HVIT",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_56_Hvit_01-768x768.jpg",
     "currency": "NOK",
-    "price": 313,
-    "stock": 200
+    "price": 313
   },
   {
     "sku": "SKU-X0400272",
-    "title": "JVrider 56 KROM",
+    "title": "Vrider 56 KROM",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_56_Krom_01-768x768.jpg",
     "currency": "NOK",
-    "price": 313,
-    "stock": 33
+    "price": 313
   },
   {
     "sku": "SKU-X0402186",
     "title": "Vrider 56 MATT KROM",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_56_Matt_Krom_01-768x768.jpg",
     "currency": "NOK",
-    "price": 313,
-    "stock": 16
+    "price": 313
   }
 ]
