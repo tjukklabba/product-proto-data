@@ -1,0 +1,162 @@
+[
+  {
+    "sku": "SKU-1001",
+    "title": "Vindusbeslag",
+    "imageUrl": "https://picsum.photos/seed/1001/600/400",
+    "currency": "NOK",
+    "price": 1290,
+    "stock": 14
+  },
+  {
+    "sku": "SKU-1002",
+    "title": "Tetteliste 3m",
+    "imageUrl": "https://picsum.photos/seed/1002/600/400",
+    "currency": "NOK",
+    "price": 199,
+    "stock": 0
+  },
+  {
+    "sku": "SKU-1003",
+    "title": "Vindushåndtak – hvit",
+    "imageUrl": "https://picsum.photos/seed/1003/600/400",
+    "currency": "NOK",
+    "price": 349,
+    "stock": 22
+  },
+  {
+    "sku": "SKU-1004",
+    "title": "Vindushåndtak – sort",
+    "imageUrl": "https://picsum.photos/seed/1004/600/400",
+    "currency": "NOK",
+    "price": 369,
+    "stock": 5
+  },
+  {
+    "sku": "SKU-1005",
+    "title": "Barnesikring vindu",
+    "imageUrl": "https://picsum.photos/seed/1005/600/400",
+    "currency": "NOK",
+    "price": 499,
+    "stock": 18
+  },
+  {
+    "sku": "SKU-1006",
+    "title": "Luftebeslag toppsving",
+    "imageUrl": "https://picsum.photos/seed/1006/600/400",
+    "currency": "NOK",
+    "price": 899,
+    "stock": 7
+  },
+  {
+    "sku": "SKU-1007",
+    "title": "Terskel aluminium",
+    "imageUrl": "https://picsum.photos/seed/1007/600/400",
+    "currency": "NOK",
+    "price": 1590,
+    "stock": 3
+  },
+  {
+    "sku": "SKU-1008",
+    "title": "Pakningslist EPDM",
+    "imageUrl": "https://picsum.photos/seed/1008/600/400",
+    "currency": "NOK",
+    "price": 249,
+    "stock": 42
+  },
+  {
+    "sku": "SKU-1009",
+    "title": "Sikkerhetsbeslag klasse 2",
+    "imageUrl": "https://picsum.photos/seed/1009/600/400",
+    "currency": "NOK",
+    "price": 1790,
+    "stock": 6
+  },
+  {
+    "sku": "SKU-1010",
+    "title": "Glasslist 1200mm",
+    "imageUrl": "https://picsum.photos/seed/1010/600/400",
+    "currency": "NOK",
+    "price": 129,
+    "stock": 55
+  },
+  {
+    "sku": "SKU-1011",
+    "title": "Glasslist 1800mm",
+    "imageUrl": "https://picsum.photos/seed/1011/600/400",
+    "currency": "NOK",
+    "price": 179,
+    "stock": 41
+  },
+  {
+    "sku": "SKU-1012",
+    "title": "Hengselsett sidehengslet",
+    "imageUrl": "https://picsum.photos/seed/1012/600/400",
+    "currency": "NOK",
+    "price": 1090,
+    "stock": 9
+  },
+  {
+    "sku": "SKU-1013",
+    "title": "Hengselsett toppsving",
+    "imageUrl": "https://picsum.photos/seed/1013/600/400",
+    "currency": "NOK",
+    "price": 1190,
+    "stock": 11
+  },
+  {
+    "sku": "SKU-1014",
+    "title": "Dreneringsbeslag",
+    "imageUrl": "https://picsum.photos/seed/1014/600/400",
+    "currency": "NOK",
+    "price": 159,
+    "stock": 60
+  },
+  {
+    "sku": "SKU-1015",
+    "title": "Ventilrist utvendig",
+    "imageUrl": "https://picsum.photos/seed/1015/600/400",
+    "currency": "NOK",
+    "price": 289,
+    "stock": 27
+  },
+  {
+    "sku": "SKU-1016",
+    "title": "Ventilrist innvendig",
+    "imageUrl": "https://picsum.photos/seed/1016/600/400",
+    "currency": "NOK",
+    "price": 269,
+    "stock": 31
+  },
+  {
+    "sku": "SKU-1017",
+    "title": "Monteringsskrue rustfri",
+    "imageUrl": "https://picsum.photos/seed/1017/600/400",
+    "currency": "NOK",
+    "price": 99,
+    "stock": 120
+  },
+  {
+    "sku": "SKU-1018",
+    "title": "Monteringsskrue elforsinket",
+    "imageUrl": "https://picsum.photos/seed/1018/600/400",
+    "currency": "NOK",
+    "price": 79,
+    "stock": 200
+  },
+  {
+    "sku": "SKU-1019",
+    "title": "Justerskive sett",
+    "imageUrl": "https://picsum.photos/seed/1019/600/400",
+    "currency": "NOK",
+    "price": 149,
+    "stock": 33
+  },
+  {
+    "sku": "SKU-1020",
+    "title": "Vedlikeholdsolje vindu",
+    "imageUrl": "https://picsum.photos/seed/1020/600/400",
+    "currency": "NOK",
+    "price": 199,
+    "stock": 16
+  }
+]
