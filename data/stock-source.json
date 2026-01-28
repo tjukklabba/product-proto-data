@@ -1,0 +1,22 @@
+[
+  { "sku": "SKU-200099", "available": 14 },
+  { "sku": "SKU-X0400237", "available": 0 },
+  { "sku": "SKU-0401228", "available": 22 },
+  { "sku": "SKU-0404555", "available": 5 },
+  { "sku": "SKU-0403468", "available": 18 },
+  { "sku": "SKU-0403467", "available": 7 },
+  { "sku": "SKU-0403778+0403777", "available": 3 },
+  { "sku": "SKU-0402770+0402769", "available": 42 },
+  { "sku": "SKU-0404195", "available": 6 },
+  { "sku": "SKU-0403167", "available": 55 },
+  { "sku": "SKU-0402502", "available": 41 },
+  { "sku": "SKU-0403473", "available": 9 },
+  { "sku": "SKU-0403476", "available": 11 },
+  { "sku": "SKU-0403474", "available": 60 },
+  { "sku": "SKU-050046", "available": 27 },
+  { "sku": "SKU-050023", "available": 31 },
+  { "sku": "SKU-X0402185", "available": 120 },
+  { "sku": "SKU-X0400280", "available": 200 },
+  { "sku": "SKU-X0400272", "available": 33 },
+  { "sku": "SKU-X0402186", "available": 16 }
+]
