@@ -6,7 +6,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -19,7 +23,6 @@
     "result": {
       "state": "SELLABLE_WITH_CONDITION",
       "reasonCode": "OUT_OF_STOCK",
-      "message": null,
       "ctaType": "CONTACT_US"
     },
     "priority": 0
@@ -31,7 +34,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -41,7 +48,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -51,7 +62,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -61,7 +76,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -71,7 +90,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -81,7 +104,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -91,7 +118,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -101,7 +132,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -111,7 +146,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -121,7 +160,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -131,7 +174,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -141,7 +188,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -151,7 +202,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -161,7 +216,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -171,7 +230,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -181,7 +244,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -191,7 +258,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   },
   {
@@ -201,7 +272,11 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": { "state": "SELLABLE", "reasonCode": null, "message": null, "ctaType": "ADD_TO_CART" },
+    "result": {
+      "state": "SELLABLE",
+      "reasonCode": null,
+      "ctaType": "ADD_TO_CART"
+    },
     "priority": 0
   }
 ]
