@@ -19,7 +19,7 @@
     "result": {
       "state": "SELLABLE_WITH_CONDITION",
       "reasonCode": "OUT_OF_STOCK",
-      "message": "Ikke på lager. Kontakt oss for leveringstid.",
+      "message": null,
       "ctaType": "CONTACT_US"
     },
     "priority": 0
