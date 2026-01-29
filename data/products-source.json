@@ -2,12 +2,16 @@
   {
     "sku": "SKU-200099",
     "title": "Dørglans",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2025/10/Dorglans-2-850x850.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2025/10/Dorglans-2-850x850.jpg",
+    "shortDescription": "Polish for overflate og finish på dør.",
+    "longDescription": "Dørglans brukes for å friske opp overflate og gi en jevnere finish. Egner seg som vedlikeholdsprodukt. Dette er eksempelinnhold for å demonstrere at produktinnhold ligger i catalog-domenet."
   },
   {
     "sku": "SKU-X0400237",
     "title": "Blindskilt 50/51/52 logo HVIT",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_0400237_coverplate_logo-850x850.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_0400237_coverplate_logo-850x850.jpg",
+    "shortDescription": "Blindskilt i hvit utførelse med logo.",
+    "longDescription": "Blindskilt benyttes der det ikke skal være sylinder eller gjennomgående hull. Dette er demo-tekst som kan erstattes av PIM-innhold senere uten å endre frontend."
   },
   {
     "sku": "SKU-0401228",
@@ -17,12 +21,16 @@
   {
     "sku": "SKU-0404555",
     "title": "Dobbel sylinder inn- og utvendig med nøkkel til 67mm dør",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Dobbel_Sylinder_01.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Dobbel_Sylinder_01.jpg",
+    "shortDescription": "Dobbel sylinder for 67mm dør. Leveres med nøkkel.",
+    "longDescription": "Brukes der det ønskes låsing både innvendig og utvendig. Dette er eksempelinnhold for PDP, mens pris/lager og sellability styres via API."
   },
   {
     "sku": "SKU-0403468",
     "title": "Eolis HS Vindsensor io 230v",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Eolis-HS-Vindsensor-io-768x768.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Eolis-HS-Vindsensor-io-768x768.jpg",
+    "shortDescription": "Vindsensor for styring av solskjerming. 230V.",
+    "longDescription": "Eolis HS brukes for automatisk styring basert på vind. Egner seg for demo av productDetails: innhold fra catalog, pris fra price, lager fra stock, og CTA fra sellability."
   },
   {
     "sku": "SKU-0403467",
@@ -32,7 +40,9 @@
   {
     "sku": "SKU-0403778+0403777",
     "title": "Hengsel, høyre, HVIT",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2024/12/04037780403777-768x768.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2024/12/04037780403777-768x768.jpg",
+    "shortDescription": "Høyre hengsel i hvit utførelse.",
+    "longDescription": "Dette er en sammensatt SKU i demo-scope. Brukes for å demonstrere at SKU-normalisering og mapping håndteres i API-laget, ikke i UI."
   },
   {
     "sku": "SKU-0402770+0402769",
@@ -47,7 +57,9 @@
   {
     "sku": "SKU-0403167",
     "title": "Hoppe vrider 0730/350 KL, tett, utvendig SØLV",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Hoppe_solv_Slett_0730_300-768x768.png"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Hoppe_solv_Slett_0730_300-768x768.png",
+    "shortDescription": "Tett vrider, utvendig. Sølv utførelse.",
+    "longDescription": "Brukes der det ønskes tett/avskjermet løsning utvendig. Eksempelinnhold for å vise at PDP kan ha mer tekst enn produktlisten."
   },
   {
     "sku": "SKU-0402502",
@@ -62,7 +74,9 @@
   {
     "sku": "SKU-0403476",
     "title": "Sunis Wirefree io II – Batteridrevet solføler",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Solfoler-768x768.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Solfoler-768x768.jpg",
+    "shortDescription": "Batteridrevet solføler for automatisk styring.",
+    "longDescription": "Sunis Wirefree brukes for å trigge solskjerming basert på sol. Eksempel på produkt der innhold kommer fra catalog, mens tilgjengelighet og CTA bestemmes i egne domener."
   },
   {
     "sku": "SKU-0403474",
@@ -72,7 +86,9 @@
   {
     "sku": "SKU-050046",
     "title": "Tetningslist",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_050046_tetningslist_sort-768x768.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2021/01/NorDan_050046_tetningslist_sort-768x768.jpg",
+    "shortDescription": "Tetningslist for tett og jevn lukking.",
+    "longDescription": "Brukes for å forbedre tetting og redusere trekk. Dette er demo-tekst som kan utvides med mål, materialtype og kompatibilitet ved behov."
   },
   {
     "sku": "SKU-050023",
@@ -87,7 +103,9 @@
   {
     "sku": "SKU-X0400280",
     "title": "Vrider 56 HVIT",
-    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_56_Hvit_01-768x768.jpg"
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/06/NorDan_Vrider_56_Hvit_01-768x768.jpg",
+    "shortDescription": "Vrider i hvit utførelse.",
+    "longDescription": "Eksempelinnhold for å demonstrere at ikke alle produkter trenger lang beskrivelse, men at noen har det – og at UI håndterer begge deler."
   },
   {
     "sku": "SKU-X0400272",
