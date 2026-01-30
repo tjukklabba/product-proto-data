@@ -53,7 +53,7 @@
     "title": { "NO": "Eolis HS Vindsensor io 230v", "SE": "Eolis HS Vindsensor io 230v" },
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2020/09/Somfy-Eolis-HS-Vindsensor-io-768x768.jpg",
     "shortDescription": {
-      "NO": "Vindsensor for styring av solskjerming. 230V.",
+      "NO": "Vindsensor som automatisk kjører opp utvendig solskjerming når den registrerer for mye vind. Sensoren kan enkelt stilles inn med ulike sensitivitetsnivåer. Dette gjør at du trygt kan reise hjemmefra med solskjermingen nede.",
       "SE": "Vindsensor för styrning av solskydd. 230V."
     },
     "longDescription": {
