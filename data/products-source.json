@@ -57,7 +57,7 @@
       "SE": "Vindsensor för styrning av solskydd. 230V."
     },
     "longDescription": {
-      "NO": "Eolis HS brukes for automatisk styring basert på vind. Egner seg for demo av productDetails: innhold fra catalog, pris fra price, lager fra stock, og CTA fra sellability.",
+      "NO": "Vindsensor som automatisk kjører opp utvendig solskjerming når den registrerer for mye vind. Sensoren kan enkelt stilles inn med ulike sensitivitetsnivåer. Dette gjør at du trygt kan reise hjemmefra med solskjermingen nede, uten å være redd for at vinden skal skade solskjermingen din. Spesifikasjoner: Radiofrekvens: 868.00-869.70MHz Nominell spenning/frekvens: 230v-50Hz Beskyttelsesindeks: IP34 Lengde(L3): 325mm Bredde: 160mm Høyde: 175mm Arbeidstemperatur: -20c til +50c Farge/finish",
       "SE": "Eolis HS används för automatisk styrning baserad på vind. Lämplig för demo av productDetails: innehåll från catalog, pris från price, lager från stock och CTA från sellability."
     }
   },
