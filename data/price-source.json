@@ -102,7 +102,7 @@
     }
   },
   {
-    "sku": "SKU-0403778+0403777",
+    "sku": "SKU-0403778",
     "listPrice": {
       "NO": { "currency": "NOK", "amount": 221 },
       "SE": { "currency": "SEK", "amount": 204 }
@@ -119,7 +119,7 @@
     }
   },
   {
-    "sku": "SKU-0402770+0402769",
+    "sku": "SKU-0402770",
     "listPrice": {
       "NO": { "currency": "NOK", "amount": 618 },
       "SE": { "currency": "SEK", "amount": 569 }
