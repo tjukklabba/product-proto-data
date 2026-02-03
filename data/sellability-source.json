@@ -84,7 +84,7 @@
     "priority": 0
   },
   {
-    "sku": "SKU-0403778+0403777",
+    "sku": "SKU-0403778",
     "market": "*",
     "rule": "DEFAULT_FROM_STOCK",
     "effectiveFrom": null,
@@ -98,7 +98,7 @@
     "priority": 0
   },
   {
-    "sku": "SKU-0402770+0402769",
+    "sku": "SKU-0402770",
     "market": "*",
     "rule": "DEFAULT_FROM_STOCK",
     "effectiveFrom": null,
