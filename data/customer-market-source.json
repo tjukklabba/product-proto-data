@@ -1,0 +1,15 @@
+{
+  "markets": [
+    { "code": "NO", "label": "NO (NOK)", "currency": "NOK" },
+    { "code": "SE", "label": "SE (SEK)", "currency": "SEK" }
+  ],
+  "customers": [
+    { "id": "", "label": { "NO": "B2C (listepris)", "SE": "B2C (listpris)" } },
+    { "id": "1234", "label": { "NO": "Kunde 1234 (avtalepris)", "SE": "Kund 1234 (avtalspris)" } },
+    { "id": "5678", "label": { "NO": "Kunde 5678 (avtalepris)", "SE": "Kund 5678 (avtalspris)" } }
+  ],
+  "availability": {
+    "NO": ["", "1234", "5678"],
+    "SE": ["", "1234"]
+  }
+}
