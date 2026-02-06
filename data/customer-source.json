@@ -23,15 +23,15 @@
     "customerId": "5678",
     "market": "NO",
     "billingAddress": {
-      "customerName": "Kunde 5678 AS",
-      "address1": "Storgata 1",
+      "customerName": "Optimera AS",
+      "address1": "Ulvenveien 92C",
       "address2": "",
-      "postalCode": "0101",
+      "postalCode": "0581",
       "city": "Oslo",
       "country": "NO"
     },
     "defaultShippingAddress": {
-      "customerName": "Kunde 5678 AS",
+      "customerName": "Optimera Proffsenter Ulven",
       "address1": "Storgata 1",
       "address2": "",
       "postalCode": "0101",
