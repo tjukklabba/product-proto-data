@@ -1,0 +1,42 @@
+[
+  {
+    "customerId": "1234",
+    "market": "NO",
+    "billingAddress": {
+      "customerName": "Gausdal Landandleri Jevnaker",
+      "address1": "Industrivegen 2",
+      "address2": "",
+      "postalCode": "3520",
+      "city": "Jevnaker",
+      "country": "NO"
+    },
+    "defaultShippingAddress": {
+      "customerName": "Gausdal Landandleri Jevnaker",
+      "address1": "Industrivegen 2",
+      "address2": "",
+      "postalCode": "3520",
+      "city": "Jevnaker",
+      "country": "NO"
+    }
+  },
+  {
+    "customerId": "5678",
+    "market": "NO",
+    "billingAddress": {
+      "customerName": "Kunde 5678 AS",
+      "address1": "Storgata 1",
+      "address2": "",
+      "postalCode": "0101",
+      "city": "Oslo",
+      "country": "NO"
+    },
+    "defaultShippingAddress": {
+      "customerName": "Kunde 5678 AS",
+      "address1": "Storgata 1",
+      "address2": "",
+      "postalCode": "0101",
+      "city": "Oslo",
+      "country": "NO"
+    }
+  }
+]
