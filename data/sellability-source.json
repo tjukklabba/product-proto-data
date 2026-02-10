@@ -6,11 +6,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -20,11 +16,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE_WITH_CONDITION",
-      "reasonCode": "OUT_OF_STOCK",
-      "ctaType": "CONTACT_US"
-    },
+    "result": { "state": "SELLABLE_WITH_CONDITION", "reasonCode": "OUT_OF_STOCK", "ctaType": "CONTACT_US" },
     "priority": 0
   },
   {
@@ -34,11 +26,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -48,11 +36,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -62,11 +46,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -76,11 +56,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -90,11 +66,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -104,11 +76,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -118,11 +86,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -132,11 +96,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -146,11 +106,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -160,11 +116,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -174,11 +126,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -188,11 +136,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -202,11 +146,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -216,11 +156,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -230,11 +166,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -244,11 +176,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -258,11 +186,7 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   },
   {
@@ -272,11 +196,98 @@
     "effectiveFrom": null,
     "effectiveTo": null,
     "customerScope": "ALL",
-    "result": {
-      "state": "SELLABLE",
-      "reasonCode": null,
-      "ctaType": "ADD_TO_CART"
-    },
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+
+  {
+    "sku": "SKU-60020255",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020221",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020224",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020225",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020214",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020244",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020267",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020269",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
+    "priority": 0
+  },
+  {
+    "sku": "SKU-60020258",
+    "market": "*",
+    "rule": "DEFAULT_FROM_STOCK",
+    "effectiveFrom": null,
+    "effectiveTo": null,
+    "customerScope": "ALL",
+    "result": { "state": "SELLABLE", "reasonCode": null, "ctaType": "ADD_TO_CART" },
     "priority": 0
   }
 ]
