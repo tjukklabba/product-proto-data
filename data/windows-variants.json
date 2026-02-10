@@ -25,5 +25,79 @@
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020357", "widthDm": 7, "heightDm": 8, "priceExVat": 7258, "priceIncVat": 9073 },
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020375", "widthDm": 8, "heightDm": 8, "priceExVat": 7768, "priceIncVat": 9710 },
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020364", "widthDm": 9, "heightDm": 8, "priceExVat": 8295, "priceIncVat": 10369 },
-  { "familyId": "sidesving-ntech08-hvit", "sku": "60020353", "widthDm": 10, "heightDm": 8, "priceExVat": 8801, "priceIncVat": 11001 }
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020353", "widthDm": 10, "heightDm": 8, "priceExVat": 8801, "priceIncVat": 11001 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020385", "widthDm": 5, "heightDm": 9, "priceExVat": 6892, "priceIncVat": 8615 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020372", "widthDm": 6, "heightDm": 9, "priceExVat": 7242, "priceIncVat": 9053 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020376", "widthDm": 7, "heightDm": 9, "priceExVat": 7739, "priceIncVat": 9674 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020365", "widthDm": 8, "heightDm": 9, "priceExVat": 8299, "priceIncVat": 10374 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020361", "widthDm": 9, "heightDm": 9, "priceExVat": 8829, "priceIncVat": 11036 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020393", "widthDm": 10, "heightDm": 9, "priceExVat": 9354, "priceIncVat": 11693 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020397", "widthDm": 5, "heightDm": 10, "priceExVat": 7242, "priceIncVat": 9053 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020355", "widthDm": 6, "heightDm": 10, "priceExVat": 7647, "priceIncVat": 9559 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020374", "widthDm": 7, "heightDm": 10, "priceExVat": 8249, "priceIncVat": 10311 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020388", "widthDm": 8, "heightDm": 10, "priceExVat": 8804, "priceIncVat": 11005 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020368", "widthDm": 9, "heightDm": 10, "priceExVat": 9356, "priceIncVat": 11695 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020382", "widthDm": 10, "heightDm": 10, "priceExVat": 9917, "priceIncVat": 12396 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020392", "widthDm": 5, "heightDm": 11, "priceExVat": 7591, "priceIncVat": 9489 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020389", "widthDm": 6, "heightDm": 11, "priceExVat": 8133, "priceIncVat": 10166 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020370", "widthDm": 7, "heightDm": 11, "priceExVat": 8728, "priceIncVat": 10910 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020399", "widthDm": 8, "heightDm": 11, "priceExVat": 9309, "priceIncVat": 11636 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020378", "widthDm": 9, "heightDm": 11, "priceExVat": 9894, "priceIncVat": 12368 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020359", "widthDm": 10, "heightDm": 11, "priceExVat": 10486, "priceIncVat": 13108 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020377", "widthDm": 5, "heightDm": 12, "priceExVat": 7963, "priceIncVat": 9954 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020401", "widthDm": 6, "heightDm": 12, "priceExVat": 8603, "priceIncVat": 10754 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020405", "widthDm": 7, "heightDm": 12, "priceExVat": 9203, "priceIncVat": 11504 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020369", "widthDm": 8, "heightDm": 12, "priceExVat": 9820, "priceIncVat": 12275 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020381", "widthDm": 9, "heightDm": 12, "priceExVat": 10435, "priceIncVat": 13044 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020371", "widthDm": 10, "heightDm": 12, "priceExVat": 11038, "priceIncVat": 13798 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020383", "widthDm": 5, "heightDm": 13, "priceExVat": 8375, "priceIncVat": 10469 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020379", "widthDm": 6, "heightDm": 13, "priceExVat": 9051, "priceIncVat": 11314 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020398", "widthDm": 7, "heightDm": 13, "priceExVat": 9695, "priceIncVat": 12119 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020404", "widthDm": 8, "heightDm": 13, "priceExVat": 10331, "priceIncVat": 12914 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020380", "widthDm": 9, "heightDm": 13, "priceExVat": 10962, "priceIncVat": 13703 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020395", "widthDm": 10, "heightDm": 13, "priceExVat": 11603, "priceIncVat": 14504 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020414", "widthDm": 5, "heightDm": 14, "priceExVat": 9675, "priceIncVat": 12094 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020413", "widthDm": 6, "heightDm": 14, "priceExVat": 10340, "priceIncVat": 12925 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020416", "widthDm": 7, "heightDm": 14, "priceExVat": 11011, "priceIncVat": 13764 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020403", "widthDm": 8, "heightDm": 14, "priceExVat": 11668, "priceIncVat": 14585 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020384", "widthDm": 9, "heightDm": 14, "priceExVat": 12330, "priceIncVat": 15413 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020387", "widthDm": 10, "heightDm": 14, "priceExVat": 12990, "priceIncVat": 16238 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020390", "widthDm": 5, "heightDm": 15, "priceExVat": 10118, "priceIncVat": 12648 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020400", "widthDm": 6, "heightDm": 15, "priceExVat": 10803, "priceIncVat": 13504 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020420", "widthDm": 7, "heightDm": 15, "priceExVat": 11489, "priceIncVat": 14361 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020402", "widthDm": 8, "heightDm": 15, "priceExVat": 12175, "priceIncVat": 15219 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020391", "widthDm": 9, "heightDm": 15, "priceExVat": 12862, "priceIncVat": 16078 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020419", "widthDm": 10, "heightDm": 15, "priceExVat": 13554, "priceIncVat": 16943 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020396", "widthDm": 5, "heightDm": 16, "priceExVat": 10826, "priceIncVat": 13533 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020409", "widthDm": 6, "heightDm": 16, "priceExVat": 11535, "priceIncVat": 14419 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020407", "widthDm": 7, "heightDm": 16, "priceExVat": 12256, "priceIncVat": 15320 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020410", "widthDm": 8, "heightDm": 16, "priceExVat": 12959, "priceIncVat": 16199 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020424", "widthDm": 9, "heightDm": 16, "priceExVat": 13677, "priceIncVat": 17096 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020423", "widthDm": 10, "heightDm": 16, "priceExVat": 14386, "priceIncVat": 17983 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020408", "widthDm": 5, "heightDm": 17, "priceExVat": 11251, "priceIncVat": 14064 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020415", "widthDm": 6, "heightDm": 17, "priceExVat": 11993, "priceIncVat": 14991 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020425", "widthDm": 7, "heightDm": 17, "priceExVat": 12734, "priceIncVat": 15918 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020421", "widthDm": 8, "heightDm": 17, "priceExVat": 13479, "priceIncVat": 16849 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020417", "widthDm": 9, "heightDm": 17, "priceExVat": 14204, "priceIncVat": 17755 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020412", "widthDm": 5, "heightDm": 18, "priceExVat": 11687, "priceIncVat": 14609 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020429", "widthDm": 6, "heightDm": 18, "priceExVat": 12446, "priceIncVat": 15558 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020418", "widthDm": 7, "heightDm": 18, "priceExVat": 13218, "priceIncVat": 16523 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020411", "widthDm": 8, "heightDm": 18, "priceExVat": 13975, "priceIncVat": 17469 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020428", "widthDm": 5, "heightDm": 19, "priceExVat": 12112, "priceIncVat": 15140 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020406", "widthDm": 6, "heightDm": 19, "priceExVat": 12919, "priceIncVat": 16149 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020427", "widthDm": 7, "heightDm": 19, "priceExVat": 13695, "priceIncVat": 17119 },
+
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020422", "widthDm": 5, "heightDm": 20, "priceExVat": 12554, "priceIncVat": 15693 },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020426", "widthDm": 6, "heightDm": 20, "priceExVat": 13367, "priceIncVat": 16709 }
 ]
