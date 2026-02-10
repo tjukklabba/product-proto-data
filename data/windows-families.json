@@ -1,0 +1,27 @@
+[
+  {
+    "familyId": "sidesving-ntech08-hvit",
+    "name": "Sidesving",
+    "openingType": "Sidesving",
+    "series": "NTech 0.8",
+    "color": {
+      "code": "NCS S 0502-Y",
+      "name": "Hvit",
+      "priceImpact": 0
+    },
+    "glass": "3-lags energiglass med argon",
+    "hingeSide": "Standard NO, sølv",
+    "handleHeightMm": {
+      "min": 105,
+      "max": 113
+    },
+    "openingAngleDeg": 180,
+    "notes": [
+      "Modulmål i dm (BxH)",
+      "Reelle karmmål = (dm * 100 - 12) mm",
+      "Standardfarger uten pristillegg",
+      "Utvendig aluminiumsbekledning er ikke inkludert i scope"
+    ],
+    "defaultUnit": "stk"
+  }
+]
