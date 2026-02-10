@@ -25,5 +25,31 @@
       "Utvendig aluminiumsbekledning er ikke inkludert i scope"
     ],
     "defaultUnit": "stk"
+  },
+  {
+    "familyId": "toppsving-ntech08-hvit",
+    "name": "Toppsving",
+    "openingType": "Toppsving utadslående",
+    "series": "NTech 0.8",
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/Toptech.1_vinkel_color_contrast-600x539.png",
+    "description": "Toppsving-vinduet åpnes utad med hengsling i topp. Gir effektiv lufting og et rent uttrykk, samtidig som det er praktisk i rom der du vil ha fri plass på innsiden.",
+    "color": {
+      "code": "NCS S 0502-Y",
+      "name": "Hvit",
+      "priceImpact": 0
+    },
+    "glass": "3-lags energiglass (4E+18G+4+18G+4E) med argon",
+    "hingeSide": "Standard ND, sølv",
+    "handleHeightMm": {
+      "min": 105,
+      "max": 113
+    },
+    "openingAngleDeg": 180,
+    "notes": [
+      "Modulmål i dm (BxH)",
+      "Reelle karmmål = (dm * 100 - 12) mm",
+      "Standardfarger uten pristillegg"
+    ],
+    "defaultUnit": "stk"
   }
 ]
