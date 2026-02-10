@@ -4,6 +4,8 @@
     "name": "Sidesving",
     "openingType": "Sidesving",
     "series": "NTech 0.8",
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/ND_sidesving-2-100x100.png",
+    "description": "Oppdag det beste av moderne funksjonalitet kombinert med klassisk vindusdesign. Sidesving-vinduet har en roterende ramme som gjør det enkelt å vaske og vedlikeholde, samtidig som det tradisjonelle uttrykket bevares.",
     "color": {
       "code": "NCS S 0502-Y",
       "name": "Hvit",
