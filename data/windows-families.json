@@ -6,11 +6,10 @@
     "series": "NTech 0.8",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/ND_sidesving-2-100x100.png",
     "description": "Oppdag det beste av moderne funksjonalitet kombinert med klassisk vindusdesign. Sidesving-vinduet har en roterende ramme som gjør det enkelt å vaske og vedlikeholde, samtidig som det tradisjonelle uttrykket bevares.",
-    "color": {
-      "code": "NCS S 0502-Y",
-      "name": "Hvit",
-      "priceImpact": 0
-    },
+
+    "colorGroup": "windows-standard",
+    "defaultColorCode": "NCS S 0502-Y",
+
     "glass": "3-lags energiglass med argon",
     "hingeSide": "Standard NO, sølv",
     "handleHeightMm": {
@@ -33,11 +32,10 @@
     "series": "NTech 0.8",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/Toptech.1_vinkel_color_contrast-600x539.png",
     "description": "Toppsving-vinduet åpnes utad med hengsling i topp. Gir effektiv lufting og et rent uttrykk, samtidig som det er praktisk i rom der du vil ha fri plass på innsiden.",
-    "color": {
-      "code": "NCS S 0502-Y",
-      "name": "Hvit",
-      "priceImpact": 0
-    },
+
+    "colorGroup": "windows-standard",
+    "defaultColorCode": "NCS S 0502-Y",
+
     "glass": "3-lags energiglass (4E+18G+4+18G+4E) med argon",
     "hingeSide": "Standard ND, sølv",
     "handleHeightMm": {
@@ -53,3 +51,4 @@
     "defaultUnit": "stk"
   }
 ]
+
