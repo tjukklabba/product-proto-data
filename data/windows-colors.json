@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "groupId": "windows-standard",
+      "name": "Standardfarger",
+      "currency": "NOK",
+      "colors": [
+        { "code": "NCS S 0502-Y", "name": "Standard White", "system": "NCS", "priceImpact": 0, "sort": 10 },
+        { "code": "NCS S 0500-N", "name": "White", "system": "NCS", "priceImpact": 0, "sort": 20 },
+        { "code": "RAL 9010", "name": "Pure White", "system": "RAL", "priceImpact": 0, "sort": 30 },
+        { "code": "RAL 7016", "name": "Anthracite Grey", "system": "RAL", "priceImpact": 0, "sort": 40 },
+        { "code": "RAL 9005", "name": "Jet Black", "system": "RAL", "priceImpact": 0, "sort": 50 }
+      ]
+    }
+  ]
+}
