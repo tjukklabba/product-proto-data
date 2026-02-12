@@ -1,5 +1,5 @@
 [
-  { "familyId": "sidesving-ntech08-hvit", "sku": "60020345", "widthDm": 5, "heightDm": 5, "widthMm": 488, "heightMm": 488, "priceExVat": 6244, "priceIncVat": 7805, "sellable": true },
+  { "familyId": "sidesving-ntech08-hvit", "sku": "60020345", "widthDm": 5, "heightDm": 5, "widthMm": 488, "heightMm": 488, "priceExVat": 6244, "priceIncVat": 7805, "sellable": false },
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020351", "widthDm": 6, "heightDm": 5, "widthMm": 588, "heightMm": 488, "priceExVat": 6280, "priceIncVat": 7850, "sellable": true },
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020344", "widthDm": 7, "heightDm": 5, "widthMm": 688, "heightMm": 488, "priceExVat": 6309, "priceIncVat": 7886, "sellable": true },
   { "familyId": "sidesving-ntech08-hvit", "sku": "60020346", "widthDm": 8, "heightDm": 5, "widthMm": 788, "heightMm": 488, "priceExVat": 6539, "priceIncVat": 8174, "sellable": true },
