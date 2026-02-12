@@ -184,5 +184,60 @@
   { "familyId": "toppsving-ntech08-hvit", "sku": "60020533", "widthDm": 17, "heightDm": 9, "priceExVat": 14222, "priceIncVat": 17778, "widthMm": 1688, "heightMm": 888, "sellable": true },
   { "familyId": "toppsving-ntech08-hvit", "sku": "60020521", "widthDm": 18, "heightDm": 9, "priceExVat": 14749, "priceIncVat": 18436, "widthMm": 1788, "heightMm": 888, "sellable": true },
   { "familyId": "toppsving-ntech08-hvit", "sku": "60020522", "widthDm": 19, "heightDm": 9, "priceExVat": 15282, "priceIncVat": 19103, "widthMm": 1888, "heightMm": 888, "sellable": true },
-  { "familyId": "toppsving-ntech08-hvit", "sku": "60020517", "widthDm": 20, "heightDm": 9, "priceExVat": 15817, "priceIncVat": 19771, "widthMm": 1988, "heightMm": 888, "sellable": true }
+  { "familyId": "toppsving-ntech08-hvit", "sku": "60020517", "widthDm": 20, "heightDm": 9, "priceExVat": 15817, "priceIncVat": 19771, "widthMm": 1988, "heightMm": 888, "sellable": true },
+
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036410", "widthDm": 5, "heightDm": 5, "widthMm": 488, "heightMm": 488, "priceExVat": 5451, "priceIncVat": 6814, "sellable": true },
+ 
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036398", "widthDm": 6, "heightDm": 6, "widthMm": 588, "heightMm": 588, "priceExVat": 5506, "priceIncVat": 6883, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036425", "widthDm": 5, "heightDm": 7, "widthMm": 488, "heightMm": 688, "priceExVat": 5506, "priceIncVat": 6883, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036409", "widthDm": 6, "heightDm": 7, "widthMm": 588, "heightMm": 688, "priceExVat": 5731, "priceIncVat": 7164, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036408", "widthDm": 7, "heightDm": 7, "widthMm": 688, "heightMm": 688, "priceExVat": 6077, "priceIncVat": 7596, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036413", "widthDm": 5, "heightDm": 8, "widthMm": 488, "heightMm": 788, "priceExVat": 5731, "priceIncVat": 7164, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036404", "widthDm": 6, "heightDm": 8, "widthMm": 588, "heightMm": 788, "priceExVat": 6077, "priceIncVat": 7596, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036406", "widthDm": 7, "heightDm": 8, "widthMm": 688, "heightMm": 788, "priceExVat": 6432, "priceIncVat": 8040, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036422", "widthDm": 8, "heightDm": 8, "widthMm": 788, "heightMm": 788, "priceExVat": 6894, "priceIncVat": 8618, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036414", "widthDm": 5, "heightDm": 9, "widthMm": 488, "heightMm": 888, "priceExVat": 6077, "priceIncVat": 7596, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036391", "widthDm": 6, "heightDm": 9, "widthMm": 588, "heightMm": 888, "priceExVat": 6422, "priceIncVat": 8028, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036420", "widthDm": 7, "heightDm": 9, "widthMm": 688, "heightMm": 888, "priceExVat": 6865, "priceIncVat": 8581, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036424", "widthDm": 8, "heightDm": 9, "widthMm": 788, "heightMm": 888, "priceExVat": 7367, "priceIncVat": 9209, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036393", "widthDm": 9, "heightDm": 9, "widthMm": 888, "heightMm": 888, "priceExVat": 7837, "priceIncVat": 9796, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036418", "widthDm": 5, "heightDm": 10, "widthMm": 488, "heightMm": 988, "priceExVat": 6422, "priceIncVat": 8028, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036399", "widthDm": 6, "heightDm": 10, "widthMm": 588, "heightMm": 988, "priceExVat": 6807, "priceIncVat": 8509, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036415", "widthDm": 7, "heightDm": 10, "widthMm": 688, "heightMm": 988, "priceExVat": 7335, "priceIncVat": 9169, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036435", "widthDm": 8, "heightDm": 10, "widthMm": 788, "heightMm": 988, "priceExVat": 7827, "priceIncVat": 9784, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036400", "widthDm": 9, "heightDm": 10, "widthMm": 888, "heightMm": 988, "priceExVat": 8329, "priceIncVat": 10411, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036405", "widthDm": 10, "heightDm": 10, "widthMm": 988, "heightMm": 988, "priceExVat": 8810, "priceIncVat": 11013, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036426", "widthDm": 5, "heightDm": 11, "widthMm": 488, "heightMm": 1088, "priceExVat": 6772, "priceIncVat": 8465, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036421", "widthDm": 6, "heightDm": 11, "widthMm": 588, "heightMm": 1088, "priceExVat": 7242, "priceIncVat": 9053, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036416", "widthDm": 7, "heightDm": 11, "widthMm": 688, "heightMm": 1088, "priceExVat": 7771, "priceIncVat": 9714, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036431", "widthDm": 8, "heightDm": 11, "widthMm": 788, "heightMm": 1088, "priceExVat": 8294, "priceIncVat": 10368, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036446", "widthDm": 9, "heightDm": 11, "widthMm": 888, "heightMm": 1088, "priceExVat": 8796, "priceIncVat": 10995, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036449", "widthDm": 10, "heightDm": 11, "widthMm": 988, "heightMm": 1088, "priceExVat": 9313, "priceIncVat": 11641, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036429", "widthDm": 5, "heightDm": 12, "widthMm": 488, "heightMm": 1188, "priceExVat": 7123, "priceIncVat": 8904, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036417", "widthDm": 6, "heightDm": 12, "widthMm": 588, "heightMm": 1188, "priceExVat": 7681, "priceIncVat": 9601, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036441", "widthDm": 7, "heightDm": 12, "widthMm": 688, "heightMm": 1188, "priceExVat": 8218, "priceIncVat": 10273, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036433", "widthDm": 8, "heightDm": 12, "widthMm": 788, "heightMm": 1188, "priceExVat": 8735, "priceIncVat": 10919, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036443", "widthDm": 9, "heightDm": 12, "widthMm": 888, "heightMm": 1188, "priceExVat": 9281, "priceIncVat": 11601, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036436", "widthDm": 10, "heightDm": 12, "widthMm": 988, "heightMm": 1188, "priceExVat": 9803, "priceIncVat": 12254, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036403", "widthDm": 5, "heightDm": 13, "widthMm": 488, "heightMm": 1288, "priceExVat": 7502, "priceIncVat": 9378, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036439", "widthDm": 6, "heightDm": 13, "widthMm": 588, "heightMm": 1288, "priceExVat": 8109, "priceIncVat": 10136, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036448", "widthDm": 7, "heightDm": 13, "widthMm": 688, "heightMm": 1288, "priceExVat": 8651, "priceIncVat": 10814, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036419", "widthDm": 8, "heightDm": 13, "widthMm": 788, "heightMm": 1288, "priceExVat": 9203, "priceIncVat": 11504, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036447", "widthDm": 9, "heightDm": 13, "widthMm": 888, "heightMm": 1288, "priceExVat": 9752, "priceIncVat": 12190, "sellable": true },
+  
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036432", "widthDm": 5, "heightDm": 14, "widthMm": 488, "heightMm": 1388, "priceExVat": 8777, "priceIncVat": 10971, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036442", "widthDm": 6, "heightDm": 14, "widthMm": 588, "heightMm": 1388, "priceExVat": 9333, "priceIncVat": 11666, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036428", "widthDm": 7, "heightDm": 14, "widthMm": 688, "heightMm": 1388, "priceExVat": 9911, "priceIncVat": 12389, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036402", "widthDm": 8, "heightDm": 14, "widthMm": 788, "heightMm": 1388, "priceExVat": 10473, "priceIncVat": 13091, "sellable": true },
+
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036412", "widthDm": 5, "heightDm": 15, "widthMm": 488, "heightMm": 1488, "priceExVat": 9174, "priceIncVat": 11468, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036430", "widthDm": 6, "heightDm": 15, "widthMm": 588, "heightMm": 1488, "priceExVat": 9765, "priceIncVat": 12206, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036438", "widthDm": 7, "heightDm": 15, "widthMm": 688, "heightMm": 1488, "priceExVat": 10343, "priceIncVat": 12929, "sellable": true }
 ]
