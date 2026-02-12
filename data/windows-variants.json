@@ -186,7 +186,7 @@
   { "familyId": "toppsving-ntech08-hvit", "sku": "60020522", "widthDm": 19, "heightDm": 9, "priceExVat": 15282, "priceIncVat": 19103, "widthMm": 1888, "heightMm": 888, "sellable": true },
   { "familyId": "toppsving-ntech08-hvit", "sku": "60020517", "widthDm": 20, "heightDm": 9, "priceExVat": 15817, "priceIncVat": 19771, "widthMm": 1988, "heightMm": 888, "sellable": true },
 
-  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036410", "widthDm": 5, "heightDm": 5, "widthMm": 488, "heightMm": 488, "priceExVat": 5451, "priceIncVat": 6814, "sellable": true },
+  { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036410", "widthDm": 5, "heightDm": 5, "widthMm": 488, "heightMm": 488, "priceExVat": 5451, "priceIncVat": 6814, "sellable": false },
  
   { "familyId": "sidehengslet-ntech1.2-hvit", "sku": "60036398", "widthDm": 6, "heightDm": 6, "widthMm": 588, "heightMm": 588, "priceExVat": 5506, "priceIncVat": 6883, "sellable": true },
   
