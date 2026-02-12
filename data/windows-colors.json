@@ -20,7 +20,7 @@
         { "code": "RAL 7015", "name": "Slate Grey", "system": "RAL", "hex": "#3F454E", "priceImpact": 0, "sort": 110 },
         { "code": "RAL 7012", "name": "Basalt Grey", "system": "RAL", "hex": "#6A7171", "priceImpact": 0, "sort": 120 },
 
-        { "code": "RAL 7037", "name": "Dusty Grey", "system": "RAL", "hex": "#8C8F8D, "priceImpact": 0, "sort": 130 },
+        { "code": "RAL 7037", "name": "Dusty Grey", "system": "RAL", "hex": "#8C8F8D", "priceImpact": 0, "sort": 130 },
         { "code": "RAL 7040", "name": "Window Grey", "system": "RAL", "hex": "#A6AEB0", "priceImpact": 0, "sort": 140 },
         { "code": "RAL 7044", "name": "Silk Grey", "system": "RAL", "hex": "#C4C0B5", "priceImpact": 0, "sort": 150 },
         { "code": "RAL 8019", "name": "Grey Brown", "system": "RAL", "hex": "#4B4240", "priceImpact": 0, "sort": 160 },
