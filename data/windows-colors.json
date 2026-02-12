@@ -5,30 +5,30 @@
       "name": "Standardfarger",
       "currency": "NOK",
       "colors": [
-        { "code": "NCS S 0502-Y", "name": "Standard White", "system": "NCS", "hex": null, "priceImpact": 0, "sort": 10 },
-        { "code": "NCS S 0500-N", "name": "White", "system": "NCS", "hex": null, "priceImpact": 0, "sort": 20 },
-        { "code": "RAL 9010", "name": "Pure White", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 30 },
-        { "code": "RAL 1013", "name": "Oyster White", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 40 },
+        { "code": "NCS S 0502-Y", "name": "Standard White", "system": "NCS", "hex": "#FFFFFC", "priceImpact": 0, "sort": 10 },
+        { "code": "NCS S 0500-N", "name": "White", "system": "NCS", "hex": "#FFFFFF", "priceImpact": 0, "sort": 20 },
+        { "code": "RAL 9010", "name": "Pure White", "system": "RAL", "hex": "#E6DFD3", "priceImpact": 0, "sort": 30 },
+        { "code": "RAL 1013", "name": "Oyster White", "system": "RAL", "hex": "#EAE3D1", "priceImpact": 0, "sort": 40 },
 
-        { "code": "NCS S 8500-N", "name": "Black", "system": "NCS", "hex": null, "priceImpact": 0, "sort": 50 },
-        { "code": "RAL 9005", "name": "Jet Black", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 60 },
-        { "code": "RAL 7021", "name": "Black Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 70 },
-        { "code": "RAL 7016", "name": "Anthracite Grey", "system": "RAL", "hex": "#383E42", "priceImpact": 0, "sort": 80 },
+        { "code": "NCS S 8500-N", "name": "Black", "system": "NCS", "hex": "#2B2829", "priceImpact": 0, "sort": 50 },
+        { "code": "RAL 9005", "name": "Jet Black", "system": "RAL", "hex": "#161619", "priceImpact": 0, "sort": 60 },
+        { "code": "RAL 7021", "name": "Black Grey", "system": "RAL", "hex": "#262626", "priceImpact": 0, "sort": 70 },
+        { "code": "RAL 7016", "name": "Anthracite Grey", "system": "RAL", "hex": "#434D51", "priceImpact": 0, "sort": 80 },
 
-        { "code": "RAL 7022", "name": "Umbra Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 90 },
-        { "code": "RAL 7043", "name": "Traffic Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 100 },
-        { "code": "RAL 7015", "name": "Slate Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 110 },
-        { "code": "RAL 7012", "name": "Basalt Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 120 },
+        { "code": "RAL 7022", "name": "Umbra Grey", "system": "RAL", "hex": "#414342", "priceImpact": 0, "sort": 90 },
+        { "code": "RAL 7043", "name": "Traffic Grey", "system": "RAL", "hex": "#42464C", "priceImpact": 0, "sort": 100 },
+        { "code": "RAL 7015", "name": "Slate Grey", "system": "RAL", "hex": "#3F454E", "priceImpact": 0, "sort": 110 },
+        { "code": "RAL 7012", "name": "Basalt Grey", "system": "RAL", "hex": "#6A7171", "priceImpact": 0, "sort": 120 },
 
-        { "code": "RAL 7037", "name": "Dusty Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 130 },
-        { "code": "RAL 7040", "name": "Window Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 140 },
-        { "code": "RAL 7044", "name": "Silk Grey", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 150 },
-        { "code": "RAL 8019", "name": "Grey Brown", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 160 },
+        { "code": "RAL 7037", "name": "Dusty Grey", "system": "RAL", "hex": "#8C8F8D, "priceImpact": 0, "sort": 130 },
+        { "code": "RAL 7040", "name": "Window Grey", "system": "RAL", "hex": "#A6AEB0", "priceImpact": 0, "sort": 140 },
+        { "code": "RAL 7044", "name": "Silk Grey", "system": "RAL", "hex": "#C4C0B5", "priceImpact": 0, "sort": 150 },
+        { "code": "RAL 8019", "name": "Grey Brown", "system": "RAL", "hex": "#4B4240", "priceImpact": 0, "sort": 160 },
 
-        { "code": "RAL 8011", "name": "Nut Brown", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 170 },
-        { "code": "RAL 3011", "name": "Red", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 180 },
-        { "code": "RAL 5007", "name": "Brilliant Blue", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 190 },
-        { "code": "RAL 6005", "name": "Moss Green", "system": "RAL", "hex": null, "priceImpact": 0, "sort": 200 }
+        { "code": "RAL 8011", "name": "Nut Brown", "system": "RAL", "hex": "#6C4631", "priceImpact": 0, "sort": 170 },
+        { "code": "RAL 3011", "name": "Red", "system": "RAL", "hex": "#902627", "priceImpact": 0, "sort": 180 },
+        { "code": "RAL 5007", "name": "Brilliant Blue", "system": "RAL", "hex": "#40769C", "priceImpact": 0, "sort": 190 },
+        { "code": "RAL 6005", "name": "Moss Green", "system": "RAL", "hex": "#0E503E", "priceImpact": 0, "sort": 200 }
       ]
     }
   ]
