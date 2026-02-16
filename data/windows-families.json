@@ -74,6 +74,30 @@
       "Standardfarger uten pristillegg"
     ],
     "defaultUnit": "stk"
-   } 
-]
+   },
+     {
+    "familyId": "sidehengslet-ntech08-hvit",
+    "name": "Sidehengslet",
+    "openingType": "Sidehenglset utadslående",
+    "series": "NTech 0.8",
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2022/05/nordan_kombi_innad_in_tilt_kipp-1-3-600x600.png",
+    "description": "NorDan sidehengslet vindu er et klassisk, utadslående vindu med bladhengsler, akkurat slik vinduer ble laget før. Vinduet har et tradisjonelt uttrykk, men med moderne egenskaper og kvaliteter som holder det høye nivået du kan forvente av NorDan.",
 
+    "colorGroup": "windows-standard",
+    "defaultColorCode": "NCS S 0502-Y",
+
+    "glass": "3-lags energiglass utvendig/innvendig og varmkant med argon (4E+18G+4+18G+E4)",
+    "hingeSide": "Standard ND, sølv",
+    "handleHeightMm": {
+      "min": 105,
+      "max": 113
+    },
+    "openingAngleDeg": null,
+    "notes": [
+      "Modulmål i dm (BxH)",
+      "Reelle karmmål = (dm * 100 - 12) mm",
+      "Standardfarger uten pristillegg"
+    ],
+    "defaultUnit": "stk"
+   }
+]
