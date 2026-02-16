@@ -2,7 +2,7 @@
   {
     "familyId": "sidesving-ntech08-hvit",
     "name": "Sidesving",
-    "openingType": "Sidesving utadslående",
+    "openingType": "Sidesving",
     "series": "NTech 0.8",
     "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/ND_sidesving-2-100x100.png",
     "description": "Oppdag det beste av moderne funksjonalitet kombinert med klassisk vindusdesign. Sidesving-vinduet har en roterende ramme som gjør det enkelt å vaske og vedlikeholde, samtidig som det tradisjonelle uttrykket bevares.",
@@ -50,7 +50,7 @@
     ],
     "defaultUnit": "stk"
   },
-   {
+  {
     "familyId": "sidehengslet-ntech1.2-hvit",
     "name": "Sidehengslet",
     "openingType": "Sidehenglset utadslående",
@@ -75,7 +75,7 @@
     ],
     "defaultUnit": "stk"
    },
-     {
+   {
     "familyId": "sidehengslet-ntech08-hvit",
     "name": "Sidehengslet",
     "openingType": "Sidehenglset utadslående",
@@ -99,5 +99,30 @@
       "Standardfarger uten pristillegg"
     ],
     "defaultUnit": "stk"
-   }
+   },
+   {
+    "familyId": "toveisvingende-ntechh08one-hvit",
+    "name": "One",
+    "openingType": "Toveisvingende, innadslående",
+    "series": "NTech 0.8",
+    "imageUrl": "https://www.nordan.no/wp-content/uploads/2019/09/NorDan_NTech_Envrider_Passiv_Tre_988x1188_Open_Kipp_Tilt_in-2-600x637.png",
+    "description": "NTech One er et innadslående, toveissvingende vindu med topp moderne beslagsteknologi fra Roto. Den avanserte mekanismen kombinerer sikkerhet og funksjonalitet med høy brukervennlighet. Med kun ett håndtak betjener du alle fem låsepunktene, og du åpner vinduet like enkelt i luftestilling som i vaskestilling.",
+
+    "colorGroup": "windows-standard",
+    "defaultColorCode": "NCS S 0502-Y",
+
+    "glass": "3-lags energiglass utvendig/innvendig og varmkant med argon (4+16G+ES4)",
+    "hingeSide": "Standard ND, sølv",
+    "handleHeightMm": {
+      "min": 105,
+      "max": 113
+    },
+    "openingAngleDeg": null,
+    "notes": [
+      "Modulmål i dm (BxH)",
+      "Reelle karmmål = (dm * 100 - 12) mm",
+      "Standardfarger uten pristillegg"
+    ],
+    "defaultUnit": "stk"
+   },
 ]
