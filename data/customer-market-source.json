@@ -5,8 +5,8 @@
   ],
   "customers": [
     { "id": "", "label": { "NO": "B2C (listepris)", "SE": "B2C (listpris)" } },
-    { "id": "64351", "label": { "NO": "Kunde 1234 (avtalepris)", "SE": "Kund 1234 (avtalspris)" } },
-    { "id": "63154", "label": { "NO": "Kunde 5678 (avtalepris)", "SE": "Kund 5678 (avtalspris)" } }
+    { "id": "64351", "label": { "NO": "Kunde 64351 (Gausdal Landhandleri)", "SE": "Kunde 64351 (Gausdal Landhandleri)" } },
+    { "id": "63154", "label": { "NO": "Kunde 63154 (Optimera Proffsenter Ulven)", "SE": "Kunde 63154 (Optimera Proffsenter Ulven)"} }
   ],
   "availability": {
     "NO": ["", "64351", "63154"],
