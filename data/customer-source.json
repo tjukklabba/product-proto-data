@@ -4,10 +4,10 @@
     "market": "NO",
     "billingAddress": {
       "customerName": "Gausdal Landandleri Jevnaker",
-      "address1": "Industrivegen 2",
+      "address1": "Gausdalveien 6",
       "address2": "",
-      "postalCode": "3520",
-      "city": "Jevnaker",
+      "postalCode": "2624",
+      "city": "Lillehammer",
       "country": "NO"
     },
     "defaultShippingAddress": {
@@ -24,9 +24,9 @@
     "market": "NO",
     "billingAddress": {
       "customerName": "Optimera AS",
-      "address1": "Ulvenveien 92C",
-      "address2": "",
-      "postalCode": "0581",
+      "address1": "Att Fakturaavd",
+      "address2": "Postboks 40, Haugenstua",
+      "postalCode": "0915",
       "city": "Oslo",
       "country": "NO"
     },
