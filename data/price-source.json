@@ -1,6 +1,1 @@
-{
-  "contractPrices": {
-    "64351": {"price": 100},
-    "63154": {"price": 150}
-  }
-}
+[ { "sku": "SKU1", "contract_price_id": "64351" }, { "sku": "SKU2", "contract_price_id": "63154" }, { "sku": "SKU3", "contract_price_id": "64351" }, { "sku": "SKU4", "contract_price_id": "63154" }, { "sku": "SKU5", "contract_price_id": "64351" }, { "sku": "SKU6", "contract_price_id": "63154" }, { "sku": "SKU7", "contract_price_id": "64351" }, { "sku": "SKU8", "contract_price_id": "63154" }, { "sku": "SKU9", "contract_price_id": "64351" }, { "sku": "SKU10", "contract_price_id": "63154" }, { "sku": "SKU11", "contract_price_id": "64351" }, { "sku": "SKU12", "contract_price_id": "63154" }, { "sku": "SKU13", "contract_price_id": "64351" }, { "sku": "SKU14", "contract_price_id": "63154" }, { "sku": "SKU15", "contract_price_id": "64351" }, { "sku": "SKU16", "contract_price_id": "63154" }, { "sku": "SKU17", "contract_price_id": "64351" }, { "sku": "SKU18", "contract_price_id": "63154" }, { "sku": "SKU19", "contract_price_id": "64351" }, { "sku": "SKU20", "contract_price_id": "63154" }, { "sku": "SKU21", "contract_price_id": "64351" }, { "sku": "SKU22", "contract_price_id": "63154" }, { "sku": "SKU23", "contract_price_id": "64351" }, { "sku": "SKU24", "contract_price_id": "63154" }, { "sku": "SKU25", "contract_price_id": "64351" }, { "sku": "SKU26", "contract_price_id": "63154" }, { "sku": "SKU27", "contract_price_id": "64351" } ]
