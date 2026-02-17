@@ -1,6 +1,6 @@
 [
   {
-    "customerId": "1234",
+    "customerId": "64351",
     "market": "NO",
     "billingAddress": {
       "customerName": "Gausdal Landandleri Jevnaker",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "customerId": "5678",
+    "customerId": "63154",
     "market": "NO",
     "billingAddress": {
       "customerName": "Optimera AS",
